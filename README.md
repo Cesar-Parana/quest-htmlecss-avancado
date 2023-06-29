@@ -21,7 +21,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução: [Add solution URL here](https://your-solution-url.com)
+- Solução: [solução](https://cesar-parana.github.io/quest-htmlecss-avancado/)
 
 ### Construido com
 
@@ -31,4 +31,4 @@ Os usuários devem ser capazes de:
 
 ## Autor
 
-- Website - [Cesar Paraná](https://www.your-site.com)
+- Website - [Cesar Paraná](https://github.com/Cesar-Parana)
